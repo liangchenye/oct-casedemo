@@ -1,4 +1,4 @@
-{ "name": "bundle test"
+{ "name": "bundle test",
   "summary": "the bundle test of OCI",
   "version": "0.1",
   "license": "Apache2.0",
